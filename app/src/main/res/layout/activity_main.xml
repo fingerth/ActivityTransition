@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.fingerth.activitytransition.MainActivity">
+
+
+    <Button
+        android:id="@+id/bt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="flipHorizontalAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="flipVerticalAnimation"
+
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fadeAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="disappearTopLeftAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="appearTopLeftAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="disappearBottomRightAnimation"
+
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="appearBottomRightAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="unzoomAnimation"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PullRightPushLeft"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PullLeftPushRight"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="scaleRightToLeft"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bottomToTopIn"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bt16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAllCaps="false" />
+
+
+</LinearLayout>
